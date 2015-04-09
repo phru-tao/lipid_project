@@ -1,0 +1,7 @@
+conditions is either have or not prior to test date, while cvd should be in 2 year range of test date
+
+exam is in 6 month prior to test date
+
+non statin medication is either have or not prior to test date
+
+statin medication should consider time frame
